@@ -2,7 +2,7 @@
 
 A lightweight desktop log analyzer that parses log files into a local SQLite database for fast filtering, searching, and exporting.
 
-![LogLens Screenshot](assets/screenshot.png)
+![LogLens Screenshot](assets/image.png)
 
 ## Features
 - Load one or more `.log/.txt/.json/.ndjson` files
